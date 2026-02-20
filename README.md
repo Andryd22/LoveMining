@@ -8,8 +8,6 @@ The project consists in some different datasets: the core dataset contains appro
 
 The project also exposes RESTful APIs that allows to interact with the system.
 
-The project also exposes RESTful APIs that allow you to interact with the system.
-
 ## 👤 Authors
 
 Andrea Doni, Dario Falaschi, Leonardo Lentini
