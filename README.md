@@ -1,4 +1,4 @@
-# LoveMining
+# 😘 LoveMining ❤️
 
 ## 📌 Project Overview
 
